@@ -589,40 +589,8 @@ Wire Wire Line
 	1450 3000 1450 2550
 Wire Wire Line
 	1450 2550 1650 2550
-Wire Wire Line
-	1650 1450 1650 2050
-Wire Wire Line
-	2150 1450 2150 2050
-$Comp
-L Connector_Generic:Conn_02x02_Odd_Even J1
-U 1 1 5BBE1B4E
-P 1850 2050
-F 0 "J1" H 1900 2267 50  0000 C CNN
-F 1 "Conn_02x02_Odd_Even" H 1900 2176 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal" H 1850 2050 50  0001 C CNN
-F 3 "~" H 1850 2050 50  0001 C CNN
-	1    1850 2050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1650 2050 1650 2150
-Connection ~ 1650 2050
-Wire Wire Line
-	2150 2050 2150 2150
-Connection ~ 2150 2050
-$Comp
-L Connector_Generic:Conn_02x02_Odd_Even J3
-U 1 1 5BBEA97D
-P 1850 2550
-F 0 "J3" H 1900 2767 50  0000 C CNN
-F 1 "Conn_02x02_Odd_Even" H 1900 2676 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Horizontal" H 1850 2550 50  0001 C CNN
-F 3 "~" H 1850 2550 50  0001 C CNN
-	1    1850 2550
-	1    0    0    -1  
-$EndComp
 Text Notes 5600 1950 0    50   ~ 0
-TC7106 digits are numbered right to left\nDE151 digits are numbered left to right
+TC7106 digits are numbered right to left\nDE115 digits are numbered left to right
 Text Notes 2100 5000 2    50   ~ 0
 C1 polypropylene or polyester\nC2, C4 mylar\nC3, C5 ceramic
 Wire Wire Line
@@ -675,4 +643,32 @@ F 3 "" H 8300 2700 50  0001 C CNN
 	1    8500 2500
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector_Generic:Conn_02x07_Odd_Even J1
+U 1 1 5BBEC155
+P 1850 2350
+F 0 "J1" H 1900 2867 50  0000 C CNN
+F 1 "Conn_02x07_Odd_Even" H 1900 2776 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x07_P2.54mm_Horizontal" H 1850 2350 50  0001 C CNN
+F 3 "~" H 1850 2350 50  0001 C CNN
+	1    1850 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 1450 1650 2050
+Wire Wire Line
+	2150 1450 2150 2050
+Wire Wire Line
+	1650 2150 1650 2050
+Connection ~ 1650 2050
+Wire Wire Line
+	2150 2050 2150 2150
+Connection ~ 2150 2050
+NoConn ~ 2150 2250
+NoConn ~ 2150 2350
+NoConn ~ 2150 2450
+NoConn ~ 1650 2450
+NoConn ~ 1650 2350
+NoConn ~ 1650 2250
+NoConn ~ 5800 1900
 $EndSCHEMATC
