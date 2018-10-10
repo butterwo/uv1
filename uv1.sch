@@ -256,33 +256,33 @@ Wire Wire Line
 Wire Wire Line
 	1700 6350 2000 6350
 Text Label 5300 2300 2    50   ~ 0
-LCD_3A
-Text Label 5300 2400 2    50   ~ 0
-LCD_3B
-Text Label 5300 2500 2    50   ~ 0
-LCD_3C
-Text Label 5300 2600 2    50   ~ 0
-LCD_3D
-Text Label 5300 2700 2    50   ~ 0
-LCD_3E
-Text Label 5300 2800 2    50   ~ 0
-LCD_3F
-Text Label 5300 2900 2    50   ~ 0
-LCD_3G
-Text Label 5300 3000 2    50   ~ 0
 LCD_2A
-Text Label 5300 3100 2    50   ~ 0
+Text Label 5300 2400 2    50   ~ 0
 LCD_2B
-Text Label 5300 3200 2    50   ~ 0
+Text Label 5300 2500 2    50   ~ 0
 LCD_2C
-Text Label 5300 3300 2    50   ~ 0
+Text Label 5300 2600 2    50   ~ 0
 LCD_2D
-Text Label 5300 3400 2    50   ~ 0
+Text Label 5300 2700 2    50   ~ 0
 LCD_2E
-Text Label 5300 3500 2    50   ~ 0
+Text Label 5300 2800 2    50   ~ 0
 LCD_2F
-Text Label 5300 3600 2    50   ~ 0
+Text Label 5300 2900 2    50   ~ 0
 LCD_2G
+Text Label 5300 3000 2    50   ~ 0
+LCD_1A
+Text Label 5300 3100 2    50   ~ 0
+LCD_1B
+Text Label 5300 3200 2    50   ~ 0
+LCD_1C
+Text Label 5300 3300 2    50   ~ 0
+LCD_1D
+Text Label 5300 3400 2    50   ~ 0
+LCD_1E
+Text Label 5300 3500 2    50   ~ 0
+LCD_1F
+Text Label 5300 3600 2    50   ~ 0
+LCD_1G
 Text Label 5300 3700 2    50   ~ 0
 LCD_BP
 Text Label 5300 3800 2    50   ~ 0
@@ -436,51 +436,51 @@ Wire Wire Line
 Text Label 7600 2000 0    50   ~ 0
 LCD_BP
 Text Label 7600 2100 0    50   ~ 0
-LCD_2A
+LCD_1A
 Text Label 7600 2200 0    50   ~ 0
-LCD_2B
+LCD_1B
 Text Label 7600 2300 0    50   ~ 0
-LCD_2C
+LCD_1C
 Text Label 7600 2400 0    50   ~ 0
-LCD_2D
+LCD_1D
 Text Label 7600 2500 0    50   ~ 0
-LCD_2E
+LCD_1E
 Text Label 7600 2600 0    50   ~ 0
-LCD_2F
+LCD_1F
 Text Label 7600 2700 0    50   ~ 0
-LCD_2G
+LCD_1G
 Text Label 7600 2800 0    50   ~ 0
 LCD_BP
 Text Label 7600 2900 0    50   ~ 0
-LCD_3A
+LCD_2A
 Text Label 7600 3000 0    50   ~ 0
-LCD_3B
+LCD_2B
 Text Label 7600 3100 0    50   ~ 0
-LCD_3C
+LCD_2C
 Text Label 7600 3200 0    50   ~ 0
-LCD_3D
+LCD_2D
 Text Label 7600 3300 0    50   ~ 0
-LCD_3E
+LCD_2E
 Text Label 7600 3400 0    50   ~ 0
-LCD_3F
+LCD_2F
 Text Label 7600 3500 0    50   ~ 0
-LCD_3G
+LCD_2G
 Text Label 9550 2100 2    50   ~ 0
 LCD_DP3
 Text Label 9550 2200 2    50   ~ 0
-LCD_4A
+LCD_3A
 Text Label 9550 2300 2    50   ~ 0
-LCD_4B
+LCD_3B
 Text Label 9550 2400 2    50   ~ 0
-LCD_4C
+LCD_3C
 Text Label 9550 2500 2    50   ~ 0
-LCD_4D
+LCD_3D
 Text Label 9550 2600 2    50   ~ 0
-LCD_4E
+LCD_3E
 Text Label 9550 2700 2    50   ~ 0
-LCD_4F
+LCD_3F
 Text Label 9550 2800 2    50   ~ 0
-LCD_4G
+LCD_3G
 Text Label 9550 2900 2    50   ~ 0
 LCD_BP
 Text Label 9550 3000 2    50   ~ 0
@@ -493,8 +493,6 @@ Text Label 9550 3300 2    50   ~ 0
 LCD_BP
 Text Label 9550 3400 2    50   ~ 0
 LCD_1BC
-Text Label 9550 3500 2    50   ~ 0
-LCD_BP
 Wire Wire Line
 	7600 2000 7900 2000
 Wire Wire Line
@@ -532,19 +530,19 @@ LCD_-
 Wire Wire Line
 	5300 3900 4900 3900
 Text Label 5300 1600 2    50   ~ 0
-LCD_4A
+LCD_3A
 Text Label 5300 1700 2    50   ~ 0
-LCD_4B
+LCD_3B
 Text Label 5300 1800 2    50   ~ 0
-LCD_4C
+LCD_3C
 Text Label 5300 1900 2    50   ~ 0
-LCD_4D
+LCD_3D
 Text Label 5300 2000 2    50   ~ 0
-LCD_4E
+LCD_3E
 Text Label 5300 2100 2    50   ~ 0
-LCD_4F
+LCD_3F
 Text Label 5300 2200 2    50   ~ 0
-LCD_4G
+LCD_3G
 Wire Wire Line
 	4900 1600 5300 1600
 Wire Wire Line
@@ -655,8 +653,6 @@ Wire Wire Line
 	9100 3300 9550 3300
 Wire Wire Line
 	9100 3400 9550 3400
-Wire Wire Line
-	9100 3500 9550 3500
 $Comp
 L uv1:TC7106 U1
 U 1 1 5BBA3720
@@ -669,12 +665,12 @@ F 3 "" H 3050 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L uv1:DE151-RS-20 U2
-U 1 1 5BBB0B28
+L uv1:DE115-RS-20 U2
+U 1 1 5BBEEF2D
 P 8500 2500
 F 0 "U2" H 8500 3767 50  0000 C CNN
-F 1 "DE151-RS-20" H 8500 3676 50  0000 C CNN
-F 2 "uv1:DE151-RS-20" H 8500 1200 50  0001 C CNN
+F 1 "DE115-RS-20" H 8500 3676 50  0000 C CNN
+F 2 "uv1:DE115-RS-20" H 8500 1200 50  0001 C CNN
 F 3 "" H 8300 2700 50  0001 C CNN
 	1    8500 2500
 	1    0    0    -1  
