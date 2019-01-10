@@ -346,114 +346,114 @@ Wire Wire Line
 Connection ~ 4900 5400
 Wire Wire Line
 	4900 5400 5250 5400
-Text Label 9150 1500 0    50   ~ 0
+Text Label 6950 1700 0    50   ~ 0
 LCD_BP
-Text Label 9150 1600 0    50   ~ 0
+Text Label 6950 1800 0    50   ~ 0
 LCD_1A
-Text Label 9150 1700 0    50   ~ 0
+Text Label 6950 1900 0    50   ~ 0
 LCD_1B
-Text Label 9150 1800 0    50   ~ 0
+Text Label 6950 2000 0    50   ~ 0
 LCD_1C
-Text Label 9150 1900 0    50   ~ 0
+Text Label 6950 2100 0    50   ~ 0
 LCD_1D
-Text Label 9150 2000 0    50   ~ 0
+Text Label 6950 2200 0    50   ~ 0
 LCD_1E
-Text Label 9150 2100 0    50   ~ 0
+Text Label 6950 2300 0    50   ~ 0
 LCD_1F
-Text Label 9150 2200 0    50   ~ 0
+Text Label 6950 2400 0    50   ~ 0
 LCD_1G
-Text Label 9150 2300 0    50   ~ 0
+Text Label 6950 2500 0    50   ~ 0
 LCD_BP
-Text Label 9150 2400 0    50   ~ 0
+Text Label 6950 2600 0    50   ~ 0
 LCD_2A
-Text Label 9150 2500 0    50   ~ 0
+Text Label 6950 2700 0    50   ~ 0
 LCD_2B
-Text Label 9150 2600 0    50   ~ 0
+Text Label 6950 2800 0    50   ~ 0
 LCD_2C
-Text Label 9150 2700 0    50   ~ 0
+Text Label 6950 2900 0    50   ~ 0
 LCD_2D
-Text Label 9150 2800 0    50   ~ 0
+Text Label 6950 3000 0    50   ~ 0
 LCD_2E
-Text Label 9150 2900 0    50   ~ 0
+Text Label 6950 3100 0    50   ~ 0
 LCD_2F
-Text Label 9150 3000 0    50   ~ 0
+Text Label 6950 3200 0    50   ~ 0
 LCD_2G
-Text Label 11100 1700 2    50   ~ 0
+Text Label 8900 1900 2    50   ~ 0
 LCD_3A
-Text Label 11100 1800 2    50   ~ 0
+Text Label 8900 2000 2    50   ~ 0
 LCD_3B
-Text Label 11100 1900 2    50   ~ 0
+Text Label 8900 2100 2    50   ~ 0
 LCD_3C
-Text Label 11100 2000 2    50   ~ 0
+Text Label 8900 2200 2    50   ~ 0
 LCD_3D
-Text Label 11100 2100 2    50   ~ 0
+Text Label 8900 2300 2    50   ~ 0
 LCD_3E
-Text Label 11100 2200 2    50   ~ 0
+Text Label 8900 2400 2    50   ~ 0
 LCD_3F
-Text Label 11100 2300 2    50   ~ 0
+Text Label 8900 2500 2    50   ~ 0
 LCD_3G
-Text Label 11100 2400 2    50   ~ 0
+Text Label 8900 2600 2    50   ~ 0
 LCD_BP
-Text Label 11100 2500 2    50   ~ 0
+Text Label 8900 2700 2    50   ~ 0
 LCD_BP
-Text Label 11100 2600 2    50   ~ 0
+Text Label 8900 2800 2    50   ~ 0
 LCD_BP
-Text Label 11100 2700 2    50   ~ 0
+Text Label 8900 2900 2    50   ~ 0
 LCD_-
-Text Label 11100 2800 2    50   ~ 0
+Text Label 8900 3000 2    50   ~ 0
 LCD_BP
-Text Label 11100 2900 2    50   ~ 0
+Text Label 8900 3100 2    50   ~ 0
 LCD_1BC
 Wire Wire Line
-	9150 1500 9450 1500
+	6950 1700 7250 1700
 Wire Wire Line
-	9450 1600 9150 1600
+	7250 1800 6950 1800
 Wire Wire Line
-	9150 1700 9450 1700
+	6950 1900 7250 1900
 Wire Wire Line
-	9450 1800 9150 1800
+	7250 2000 6950 2000
 Wire Wire Line
-	9150 1900 9450 1900
+	6950 2100 7250 2100
 Wire Wire Line
-	9450 2000 9150 2000
+	7250 2200 6950 2200
 Wire Wire Line
-	9150 2100 9450 2100
+	6950 2300 7250 2300
 Wire Wire Line
-	9450 2200 9150 2200
+	7250 2400 6950 2400
 Wire Wire Line
-	9150 2300 9450 2300
+	6950 2500 7250 2500
 Wire Wire Line
-	9450 2400 9150 2400
+	7250 2600 6950 2600
 Wire Wire Line
-	9150 2500 9450 2500
+	6950 2700 7250 2700
 Wire Wire Line
-	9450 2600 9150 2600
+	7250 2800 6950 2800
 Wire Wire Line
-	9150 2700 9450 2700
+	6950 2900 7250 2900
 Wire Wire Line
-	9450 2800 9150 2800
+	7250 3000 6950 3000
 Wire Wire Line
-	9150 2900 9450 2900
+	6950 3100 7250 3100
 Wire Wire Line
-	9450 3000 9150 3000
+	7250 3200 6950 3200
 Text Label 4900 3900 2    50   ~ 0
 LCD_-
 Wire Wire Line
 	4900 3900 4500 3900
 Text Label 4900 1600 2    50   ~ 0
-MUX_3A
+LCD_3A
 Text Label 4900 1700 2    50   ~ 0
-MUX_3B
+LCD_3B
 Text Label 4900 1800 2    50   ~ 0
-MUX_3C
+LCD_3C
 Text Label 4900 1900 2    50   ~ 0
-MUX_3D
+LCD_3D
 Text Label 4900 2000 2    50   ~ 0
-MUX_3E
+LCD_3E
 Text Label 4900 2100 2    50   ~ 0
-MUX_3F
+LCD_3F
 Text Label 4900 2200 2    50   ~ 0
-MUX_3G
+LCD_3G
 Wire Wire Line
 	4500 1600 4900 1600
 Wire Wire Line
@@ -504,42 +504,40 @@ TC7106 digits are numbered right to left\nDE115 digits are numbered left to righ
 Text Notes 1700 5000 2    50   ~ 0
 C1 polypropylene or polyester\nC2, C4 mylar\nC3, C5 ceramic
 Wire Wire Line
-	10650 1600 11100 1600
+	8450 1900 8900 1900
 Wire Wire Line
-	10650 1700 11100 1700
+	8450 2000 8900 2000
 Wire Wire Line
-	10650 1800 11100 1800
+	8450 2100 8900 2100
 Wire Wire Line
-	10650 1900 11100 1900
+	8450 2200 8900 2200
 Wire Wire Line
-	10650 2000 11100 2000
+	8450 2300 8900 2300
 Wire Wire Line
-	10650 2100 11100 2100
+	8450 2400 8900 2400
 Wire Wire Line
-	10650 2200 11100 2200
+	8450 2500 8900 2500
 Wire Wire Line
-	10650 2300 11100 2300
+	8450 2600 8900 2600
 Wire Wire Line
-	10650 2400 11100 2400
+	8450 2700 8900 2700
 Wire Wire Line
-	10650 2500 11100 2500
+	8450 2800 8900 2800
 Wire Wire Line
-	10650 2600 11100 2600
+	8450 2900 8900 2900
 Wire Wire Line
-	10650 2700 11100 2700
+	8450 3000 8900 3000
 Wire Wire Line
-	10650 2800 11100 2800
-Wire Wire Line
-	10650 2900 11100 2900
+	8450 3100 8900 3100
 $Comp
 L uv1:DE115-RS-20 U2
 U 1 1 5BBEEF2D
-P 10050 2000
-F 0 "U2" H 10050 3267 50  0000 C CNN
-F 1 "DE115-RS-20" H 10050 3176 50  0000 C CNN
-F 2 "uv1:DE115-RS-20" H 10050 700 50  0001 C CNN
-F 3 "" H 9850 2200 50  0001 C CNN
-	1    10050 2000
+P 7850 2200
+F 0 "U2" H 7850 3467 50  0000 C CNN
+F 1 "DE115-RS-20" H 7850 3376 50  0000 C CNN
+F 2 "uv1:DE115-RS-20" H 7850 900 50  0001 C CNN
+F 3 "" H 7650 2400 50  0001 C CNN
+	1    7850 2200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -569,166 +567,10 @@ NoConn ~ 1750 2450
 NoConn ~ 1250 2450
 NoConn ~ 1250 2350
 NoConn ~ 1250 2250
-$Comp
-L 74xx:74LS157 U4
-U 1 1 5BC0D89B
-P 7950 2250
-F 0 "U4" H 7950 3328 50  0000 C CNN
-F 1 "74HC157" H 7950 3237 50  0000 C CNN
-F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 7950 2250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS157" H 7950 2250 50  0001 C CNN
-	1    7950 2250
-	1    0    0    -1  
-$EndComp
-$Comp
-L 74xx:74LS157 U5
-U 1 1 5BC0D973
-P 7950 4800
-F 0 "U5" H 7950 5878 50  0000 C CNN
-F 1 "74HC157" H 7950 5787 50  0000 C CNN
-F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 7950 4800 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74LS157" H 7950 4800 50  0001 C CNN
-	1    7950 4800
-	1    0    0    -1  
-$EndComp
-Text Label 8800 1650 2    50   ~ 0
-LCD_3A
-Text Label 8800 1950 2    50   ~ 0
-LCD_3B
-Text Label 8800 2250 2    50   ~ 0
-LCD_3C
-Text Label 8800 2550 2    50   ~ 0
-LCD_3D
-Text Label 8800 4200 2    50   ~ 0
-LCD_3E
-Text Label 8800 4500 2    50   ~ 0
-LCD_3F
-Text Label 8800 4800 2    50   ~ 0
-LCD_3G
-Text Label 7100 1750 0    50   ~ 0
-MUX_3A
-Text Label 7100 2050 0    50   ~ 0
-MUX_3B
-Text Label 7100 2350 0    50   ~ 0
-MUX_3C
-Text Label 7100 2650 0    50   ~ 0
-MUX_3D
-Text Label 7100 2850 0    50   ~ 0
-DIGIT3_EN
-Text Label 7100 4300 0    50   ~ 0
-MUX_3E
-Text Label 7100 4600 0    50   ~ 0
-MUX_3F
-Text Label 7100 4900 0    50   ~ 0
-MUX_3G
-Wire Wire Line
-	7100 1750 7450 1750
-Wire Wire Line
-	7100 2050 7450 2050
-Wire Wire Line
-	7100 2350 7450 2350
-Wire Wire Line
-	7100 4300 7450 4300
-Wire Wire Line
-	7100 4600 7450 4600
-Wire Wire Line
-	7100 4900 7450 4900
-Text Label 7100 5400 0    50   ~ 0
-DIGIT3_EN
-Wire Wire Line
-	7100 5400 7450 5400
-Text Label 8850 5100 2    50   ~ 0
+Text Label 8900 1800 2    50   ~ 0
 LCD_DP3
-Wire Wire Line
-	8450 1650 8800 1650
-Wire Wire Line
-	8450 1950 8800 1950
-Wire Wire Line
-	8450 2250 8800 2250
-Wire Wire Line
-	8450 2550 8800 2550
-Wire Wire Line
-	8450 4200 8800 4200
-Wire Wire Line
-	8450 4500 8800 4500
-Wire Wire Line
-	8450 4800 8800 4800
-Wire Wire Line
-	8450 5100 8850 5100
-Wire Wire Line
-	7250 5500 7450 5500
-Wire Wire Line
-	7250 2950 7450 2950
-Text Label 7100 1650 0    50   ~ 0
-LCD_BP
-Wire Wire Line
-	7100 1650 7450 1650
-Text Label 7100 1950 0    50   ~ 0
-LCD_BP
-Text Label 7100 2250 0    50   ~ 0
-LCD_BP
-Text Label 7100 2550 0    50   ~ 0
-LCD_BP
-Text Label 7100 4200 0    50   ~ 0
-LCD_BP
-Text Label 7100 4500 0    50   ~ 0
-LCD_BP
-Text Label 7100 4800 0    50   ~ 0
-LCD_BP
-Text Label 7100 5100 0    50   ~ 0
-LCD_BP
-Wire Wire Line
-	7100 1950 7450 1950
-Wire Wire Line
-	7100 2250 7450 2250
-Wire Wire Line
-	7100 2550 7450 2550
-Wire Wire Line
-	7100 4200 7450 4200
-Wire Wire Line
-	7100 4500 7450 4500
-Wire Wire Line
-	7100 4800 7450 4800
-Text Label 11100 1600 2    50   ~ 0
-LCD_DP3
-Wire Wire Line
-	6400 4750 6950 4750
-Wire Wire Line
-	6950 4750 6950 5100
-Wire Wire Line
-	6950 5100 7450 5100
-Wire Wire Line
-	6400 4750 6400 5200
 Wire Wire Line
 	6150 4000 6150 4350
-$Comp
-L Device:Jumper_NO_Small JP1
-U 1 1 5BD6133B
-P 6550 2850
-F 0 "JP1" H 6550 3035 50  0000 C CNN
-F 1 "Jumper_NO_Small" H 6550 2944 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 6550 2850 50  0001 C CNN
-F 3 "~" H 6550 2850 50  0001 C CNN
-	1    6550 2850
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6150 2850 6450 2850
-$Comp
-L Device:R R5
-U 1 1 5BD707ED
-P 6150 2500
-F 0 "R5" H 6220 2546 50  0000 L CNN
-F 1 "470k" H 6220 2455 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 6080 2500 50  0001 C CNN
-F 3 "~" H 6150 2500 50  0001 C CNN
-	1    6150 2500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6150 2250 6150 2350
-Wire Wire Line
-	6150 2650 6150 2850
 $Comp
 L uv1:TC7106 U1
 U 1 1 5BD8FB12
@@ -740,10 +582,6 @@ F 3 "" H 2650 1600 50  0001 C CNN
 	1    3850 2500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6650 2850 7450 2850
-Wire Wire Line
-	7100 2650 7450 2650
 Text Notes 7100 6800 0    100  ~ 0
 UV radiometer
 Text Notes 10600 7650 0    50   ~ 0
@@ -807,28 +645,6 @@ F 3 "" H 2850 1900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR018
-U 1 1 5BC9001D
-P 7950 5800
-F 0 "#PWR018" H 7950 5550 50  0001 C CNN
-F 1 "GNDD" H 7954 5645 50  0000 C CNN
-F 2 "" H 7950 5800 50  0001 C CNN
-F 3 "" H 7950 5800 50  0001 C CNN
-	1    7950 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDD #PWR016
-U 1 1 5BC90069
-P 7950 3250
-F 0 "#PWR016" H 7950 3000 50  0001 C CNN
-F 1 "GNDD" H 7954 3095 50  0000 C CNN
-F 2 "" H 7950 3250 50  0001 C CNN
-F 3 "" H 7950 3250 50  0001 C CNN
-	1    7950 3250
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+BATT #PWR06
 U 1 1 5BC901A3
 P 1500 5800
@@ -856,17 +672,6 @@ Connection ~ 1500 1450
 Wire Wire Line
 	1500 1450 1750 1450
 $Comp
-L power:+BATT #PWR013
-U 1 1 5BC902D6
-P 6150 2250
-F 0 "#PWR013" H 6150 2100 50  0001 C CNN
-F 1 "+BATT" H 6165 2423 50  0000 C CNN
-F 2 "" H 6150 2250 50  0001 C CNN
-F 3 "" H 6150 2250 50  0001 C CNN
-	1    6150 2250
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:+BATT #PWR014
 U 1 1 5BC90338
 P 6150 4000
@@ -875,28 +680,6 @@ F 1 "+BATT" H 6165 4173 50  0000 C CNN
 F 2 "" H 6150 4000 50  0001 C CNN
 F 3 "" H 6150 4000 50  0001 C CNN
 	1    6150 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+BATT #PWR015
-U 1 1 5BC90399
-P 7950 1150
-F 0 "#PWR015" H 7950 1000 50  0001 C CNN
-F 1 "+BATT" H 7965 1323 50  0000 C CNN
-F 2 "" H 7950 1150 50  0001 C CNN
-F 3 "" H 7950 1150 50  0001 C CNN
-	1    7950 1150
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+BATT #PWR017
-U 1 1 5BC903FA
-P 7950 3800
-F 0 "#PWR017" H 7950 3650 50  0001 C CNN
-F 1 "+BATT" H 7965 3973 50  0000 C CNN
-F 2 "" H 7950 3800 50  0001 C CNN
-F 3 "" H 7950 3800 50  0001 C CNN
-	1    7950 3800
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -973,112 +756,28 @@ Wire Wire Line
 Connection ~ 1450 7350
 Wire Wire Line
 	1500 5850 1850 5850
-$Comp
-L power:GNDD #PWR0101
-U 1 1 5BCCFB2A
-P 7250 5500
-F 0 "#PWR0101" H 7250 5250 50  0001 C CNN
-F 1 "GNDD" H 7254 5345 50  0000 C CNN
-F 2 "" H 7250 5500 50  0001 C CNN
-F 3 "" H 7250 5500 50  0001 C CNN
-	1    7250 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDD #PWR0102
-U 1 1 5BCCFB76
-P 7250 2950
-F 0 "#PWR0102" H 7250 2700 50  0001 C CNN
-F 1 "GNDD" H 7254 2795 50  0000 C CNN
-F 2 "" H 7250 2950 50  0001 C CNN
-F 3 "" H 7250 2950 50  0001 C CNN
-	1    7250 2950
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	2850 1900 3200 1900
 $Comp
 L 74xGxx:74AHC1G04 U3
 U 1 1 5BCF3C81
-P 6700 5200
-F 0 "U3" H 6675 5467 50  0000 C CNN
-F 1 "74AHC1G04" H 6675 5376 50  0000 C CNN
-F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 6700 5200 50  0001 C CNN
-F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 6700 5200 50  0001 C CNN
-	1    6700 5200
-	1    0    0    -1  
+P 9350 1800
+F 0 "U3" H 9325 2067 50  0000 C CNN
+F 1 "74AHC1G04" H 9325 1976 50  0000 C CNN
+F 2 "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" H 9350 1800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" H 9350 1800 50  0001 C CNN
+	1    9350 1800
+	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	6950 5200 7450 5200
 Connection ~ 1500 6350
 Wire Wire Line
 	1100 6350 1500 6350
-$Comp
-L Device:C C7
-U 1 1 5BC6470D
-P 8350 3900
-F 0 "C7" V 8098 3900 50  0000 C CNN
-F 1 "C" V 8189 3900 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 8388 3750 50  0001 C CNN
-F 3 "~" H 8350 3900 50  0001 C CNN
-	1    8350 3900
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GNDD #PWR010
-U 1 1 5BC6D39A
-P 8550 3900
-F 0 "#PWR010" H 8550 3650 50  0001 C CNN
-F 1 "GNDD" H 8554 3745 50  0000 C CNN
-F 2 "" H 8550 3900 50  0001 C CNN
-F 3 "" H 8550 3900 50  0001 C CNN
-	1    8550 3900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8500 3900 8550 3900
-Wire Wire Line
-	8200 3900 7950 3900
-Wire Wire Line
-	7950 3900 7950 3800
-Connection ~ 7950 3900
-Wire Wire Line
-	7950 1150 7950 1200
-Wire Wire Line
-	7950 1200 8150 1200
-Connection ~ 7950 1200
-Wire Wire Line
-	7950 1200 7950 1350
-$Comp
-L Device:C C6
-U 1 1 5BCC7623
-P 8300 1200
-F 0 "C6" V 8048 1200 50  0000 C CNN
-F 1 "C" V 8139 1200 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 8338 1050 50  0001 C CNN
-F 3 "~" H 8300 1200 50  0001 C CNN
-	1    8300 1200
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GNDD #PWR019
-U 1 1 5BCD099F
-P 8600 1200
-F 0 "#PWR019" H 8600 950 50  0001 C CNN
-F 1 "GNDD" H 8604 1045 50  0000 C CNN
-F 2 "" H 8600 1200 50  0001 C CNN
-F 3 "" H 8600 1200 50  0001 C CNN
-	1    8600 1200
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8600 1200 8450 1200
 $Comp
 L Device:C C8
 U 1 1 5BCECC23
 P 4650 4500
 F 0 "C8" H 4765 4546 50  0000 L CNN
-F 1 "C" H 4765 4455 50  0000 L CNN
+F 1 "0.1u" H 4765 4455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 4688 4350 50  0001 C CNN
 F 3 "~" H 4650 4500 50  0001 C CNN
 	1    4650 4500
@@ -1098,37 +797,8 @@ F 3 "" H 4650 4650 50  0001 C CNN
 	1    4650 4650
 	-1   0    0    1   
 $EndComp
-$Comp
-L Device:C C9
-U 1 1 5BD38BD9
-P 6650 5800
-F 0 "C9" H 6765 5846 50  0000 L CNN
-F 1 "C" H 6765 5755 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 6688 5650 50  0001 C CNN
-F 3 "~" H 6650 5800 50  0001 C CNN
-	1    6650 5800
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+BATT #PWR021
-U 1 1 5BD38C4D
-P 6650 5650
-F 0 "#PWR021" H 6650 5500 50  0001 C CNN
-F 1 "+BATT" H 6665 5823 50  0000 C CNN
-F 2 "" H 6650 5650 50  0001 C CNN
-F 3 "" H 6650 5650 50  0001 C CNN
-	1    6650 5650
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDD #PWR022
-U 1 1 5BD38CA8
-P 6650 5950
-F 0 "#PWR022" H 6650 5700 50  0001 C CNN
-F 1 "GNDD" H 6654 5795 50  0000 C CNN
-F 2 "" H 6650 5950 50  0001 C CNN
-F 3 "" H 6650 5950 50  0001 C CNN
-	1    6650 5950
-	1    0    0    -1  
-$EndComp
+Text Label 9650 1800 0    50   ~ 0
+LCD_BP
+Wire Wire Line
+	8450 1800 9100 1800
 $EndSCHEMATC
